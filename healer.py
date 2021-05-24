@@ -3,8 +3,6 @@ import requests
 import discord
 import os
 import re
-from selenium import webdriver
-from bs4 import BeautifulSoup
 
 guildsIds = []
 
